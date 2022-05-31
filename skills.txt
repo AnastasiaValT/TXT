@@ -1,0 +1,3 @@
+CH1. Learn about the syntax and format of JSON
+CH2.How to accept and process JSON in JavaScript
+CH3.Transmit JSON in JavaScript
