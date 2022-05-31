@@ -1,0 +1,4 @@
+First ad Last name - Anastasia Triphonova
+age - 100
+number of pets - 0
+desired salary - 1000000
